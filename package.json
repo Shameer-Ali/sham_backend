@@ -1,0 +1,20 @@
+{
+  "name": "sham_backend",
+  "version": "1.0.0",
+  "description": "just new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "shameer",
+    "backend"
+  ],
+  "author": "Shameer Ali Baig",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
